@@ -5,6 +5,8 @@ import type { Memory as MemoryConfig, Product as ProductConfig } from './lib/con
 import * as utils from './lib/utils'
 import * as otplib from 'otplib'
 
+// testing 
+
 export default defineConfig({
   projectId: '3hrkhu',
   defaultCommandTimeout: 10000,
